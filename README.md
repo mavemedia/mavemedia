@@ -10,6 +10,13 @@ Comparison site for Dutch holiday parks. Trilingual (nl/de/en), with over
 3,000 accommodations imported daily from eleven affiliate XML feeds and
 merged into one page per park.
 
+### [Skizie](https://skizie.com)
+Comparison site for winter sports chalets and apartments in the Alps. Weekly
+prices including ski pass for over 1,000 accommodations, rebuilt every
+morning, with open price research on top: which weeks are cheapest, how much
+more the school holidays cost, and which ski areas give the most slopes per
+euro. See [when winter sports is cheapest](https://skizie.com/wintersport-goedkoopst/).
+
 ### [Daily Sport Pick](https://dailysportpick.com)
 Football predictions from a model ensemble (gradient boosting, Poisson,
 Dixon-Coles), published daily with settlement tracked against results.
