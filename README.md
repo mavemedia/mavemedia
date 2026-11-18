@@ -28,8 +28,8 @@ Comparison of Dutch dating platforms.
 
 ## Writing
 
-I write up the things that break, mostly about feed parsing, silent failures,
-and the distance between "the script finished" and "the script worked".
+I write up the things that break, mostly about feed parsing, silent failures, and numbers
+that look right and aren't: the distance between "the script finished" and "the script worked".
 
 * [February looked 59% more expensive than March. It was 40%.](https://dev.to/mavemedia/february-looked-59-more-expensive-than-march-it-was-40-2b2)
 * [My pipeline ran green for 8 days while importing nothing](https://dev.to/mavemedia/my-pipeline-ran-green-for-8-days-while-importing-nothing-mec)
