@@ -17,6 +17,8 @@ morning, with open price research on top: which weeks are cheapest, how much
 more the school holidays cost, and which ski areas give the most slopes per
 euro. See [when winter sports is cheapest](https://skizie.com/wintersport-goedkoopst/).
 
+The underlying data is published as an open dataset: [wintersport-prijzen](https://github.com/mavemedia/wintersport-prijzen).
+
 ### [Daily Sport Pick](https://dailysportpick.com)
 Football predictions from a model ensemble (gradient boosting, Poisson,
 Dixon-Coles), published daily with settlement tracked against results.
