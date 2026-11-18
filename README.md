@@ -10,6 +10,8 @@ Comparison site for Dutch holiday parks. Trilingual (nl/de/en), with over
 3,000 accommodations imported daily from eleven affiliate XML feeds and
 merged into one page per park.
 
+What happens when one of those feeds silently changes shape: [My pipeline ran green for 8 days while importing nothing](https://dev.to/mavemedia/my-pipeline-ran-green-for-8-days-while-importing-nothing-mec).
+
 ### [Skizie](https://skizie.com)
 Comparison site for winter sports chalets and apartments in the Alps. Weekly
 prices including ski pass for over 1,000 accommodations, rebuilt every
